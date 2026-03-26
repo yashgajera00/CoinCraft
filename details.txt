@@ -1,0 +1,492 @@
+ID: 1
+1. Bitcoin
+Name: Bitcoin
+Invented by: Satoshi Nakamoto (2008 white paper, launched 2009)
+Highest Price: ~$124,457 (August 14, 2025)
+Lowest Price: ~$0.0000–0.0009 (in early 2009)
+History:
+- 2009: Genesis block mined; network begins.
+- 2010: First real-world purchase — 10,000 BTC for two pizzas.
+- 2013: Rose to ~$1,000; later plunged.
+- 2017: Peaked near $20,000, followed by correction.
+- 2021: Briefly surpassed $60,000 multiple times.
+- 2024: Broke the $100,000 mark amid growing ETF demand.
+- 2025: Set new ATH at ~$124K in August.
+
+ID: 3
+3. Ethereum
+Name: Ethereum
+Invented by: Vitalik Buterin (proposed 2013, launched 2015)
+Highest Price: ~$4,891.70
+Lowest Price: ~$0.43
+History:
+- 2013: White paper published by Buterin.
+- 2015: “Frontier” launch begins Ethereum era.
+- 2016: DAO hack leads to Ethereum/Classic hard fork.
+- 2017–2020: Powerhouse for ICOs, DeFi, and NFTs.
+- 2022: Completed “The Merge” to Proof‑of‑Stake.
+- 2024: Renewed institutional interest.
+- 2025: Reached record high ~ $4.89.
+
+ID: 4
+4. BNB (Binance Coin)
+Name: BNB
+Invented by: Binance (2017, created as exchange token)
+Highest Price: ~$882.59 (Aug 21, 2025)
+Lowest Price: ~$0.0214 (July 2017)
+History:
+- 2017: Launched as Binance’s native token.
+- 2019–2020: Used for trading fee discounts.
+- 2021: Gained DeFi and chain utility.
+- Mid‑2025: Surged past previous records.
+- August 21, 2025: All‑time high near $882.59.
+- Rising institutional and network activity fuel momentum.
+- Continues leveraging Binance ecosystem integration.
+
+ID: 5
+5. Solana
+Name: Solana
+Invented by: Anatoly Yakovenko (2017), launched 2020
+Highest Price: ~$294.85
+Lowest Price: ~$0.50
+History:
+- 2020: Mainnet Beta launched.
+- 2021: NFT and DeFi launches fuel surge to ~$200+.
+- Sep 2021: ATH ~$293.31.
+- 2022: Network outages dent trust.
+- 2023: Recovery via renewed dev activity.
+- 2024: Institutional interest ramps up.
+- 2025: Near ATH again with $294+ milestone.
+
+ID: 6
+6. XRP
+Name: XRP
+Invented by: Ripple Labs
+Highest Price: ~$3.65
+Lowest Price: ~$0.002686
+History:
+- 2012: Released by Ripple.
+- Gained use in cross-border payments by financial partners.
+- ICO boom in 2017–2018 drove price toward $3.40.
+- Legal trouble with SEC caused volatility.
+- 2025: Rally debating ETF and legal clarity; close to $3.40 again.
+
+ID: 7
+7. ADA (Cardano)
+Name: Cardano (ADA)
+Invented by: Charles Hoskinson (2015)
+Highest Price: ~$3.10 (Sep 2021)
+Lowest Price: ~$0.01925 (Oct 2017)
+History:
+- 2015: Founded with peer-reviewed approach.
+- 2017–2018: Early adoption by academic communities.
+- 2021: Rose to ~$3.10.
+- 2022: Market downturn impacted value.
+- 2023: Gradual recovery with upgrades.
+- 2025: Analysts target return to ATH.
+
+ID: 8
+7. Dogecoin (DOGE)
+Name: Dogecoin
+Invented by: Billy Markus & Jackson Palmer (2013) as meme coin
+Highest Price: ~$0.73
+Lowest Price: ~$0.000087
+History:
+- 2013: Created as satirical meme crypto.
+- Garnered viral attention quickly.
+- 2021: Elon Musk tweets triggered >100% daily jumps.
+- Became mascot of meme investing.
+- 2022–2023: Steady community-driven activity.
+- 2025: Still popular in social media culture.
+
+ID: 9
+8. DOT (Polkadot)
+Name: Polkadot (DOT)
+Invented by: Gavin Wood (2020)
+Highest Price: ~$55.13 (Nov 4, 2021)
+Lowest Price: ~$3.02 (Jun 22, 2025)
+History:
+- 2020: Launched with interoperability vision.
+- 2021: Peaked near $55 during DeFi boom.
+- 2022: Bear market reduced value.
+- 2023–2024: Steady adoption of parachain slots.
+- Mid‑2025: Dropped to ~$3 low.
+- Continues pushing web3 cross-chain solutions.
+
+ID: 10
+9. LTC (Litecoin)
+Name: Litecoin (LTC)
+Invented by: Charlie Lee (2011)
+Highest Price: ~$410.26 (May 10, 2021)
+Lowest Price: ~$1.11 (Jan 2015)
+History:
+- 2011: Forked from Bitcoin to with faster blocks.
+- Became “silver to Bitcoin’s gold”.
+- Acted as testbed for innovations like SegWit.
+- Commercial adoption among vendors in 2010s.
+- 2021: Peaked over $410.
+- Remains one of the longest-running altcoins.
+
+ID: 11
+10. LINK (Chainlink)
+Name: Chainlink (LINK)
+Invented by: Sergey Nazarov & Steve Ellis (2017)
+Highest Price: ~$52.70 (May 2021)
+Lowest Price: ~$0.13 (Nov 2017)
+History:
+- 2017: Created to bridge smart contracts with real-world data.
+- Became leader in decentralized oracle solutions.
+- Gained traction with DeFi explosion.
+- 2021: Surged above $50 during DeFi boom.
+- Still key player in Web3 infrastructure.
+
+ID: 12
+11. XLM (Stellar)
+Name: Stellar (XLM)
+Invented by: Jed McCaleb (2014)
+Highest Price: ~$0.93 (Jan 2018)
+Lowest Price: ~$0.0012 (Nov 2014)
+History:
+- 2014: Forked from Ripple, focused on remittances.
+- Partnered with major firms for low-cost payments.
+- Gained popularity in cross-border use cases.
+- 2018: ATH of ~$0.93 during crypto bull run.
+- Still widely used for remittances and tokenization.
+
+ID: 13
+12. AVAX (Avalanche)
+Name: Avalanche (AVAX)
+Invented by: Emin Gün Sirer (2020)
+Highest Price: ~$146.22 (Nov 21, 2021)
+Lowest Price: ~$2.79 (Dec 2020)
+History:
+- 2020: Launched with consensus innovations (Snow protocol).
+- Gained traction as high-throughput Ethereum alternative.
+- DeFi ecosystems built on Avalanche grew fast.
+- 2021: ATH of ~$146.
+- Remains major competitor in L1 space.
+
+ID: 14
+13. UNI (Uniswap)
+Name: Uniswap (UNI)
+Invented by: Hayden Adams (2018)
+Highest Price: ~$44.92 (May 2021)
+Lowest Price: ~$1.03 (Sep 2020)
+History:
+- 2018: Launched as decentralized exchange (DEX).
+- Introduced AMM model to DeFi.
+- Token launched with governance for protocol.
+- 2021: UNI reached ~$45 during DeFi peak.
+- UNI used for governance and incentives.
+
+ID: 15
+14. VET (VeChain)
+Name: VeChain (VET)
+Invented by: Sunny Lu (2015)
+Highest Price: ~$0.28 (Apr 2021)
+Lowest Price: ~$0.0019 (Mar 2020)
+History:
+- 2015: Created for supply-chain transparency.
+- Grown adoption in enterprise settings.
+- Token tracks product authenticity in real-world goods.
+- 2021: ATH ~$0.28 during bull cycle.
+- Focused on enterprise and IoT adoption.
+
+ID: 16
+16. Cosmos (ATOM)
+Name: Cosmos
+Invented by: Jae Kwon, Ethan Buchman; launched in 2019
+Highest Price: ~$44.70 (Sep 2021)
+Lowest Price: ~$1.13 (Mar 2020)
+History:
+- 2014: Tendermint consensus engine introduced.
+- 2017: Cosmos whitepaper published, ICO conducted.
+- 2019: Cosmos Hub (mainnet) launched.
+- 2021: ATOM hit ATH ~$44.70 amid bull market.
+- 2022: Market downturn but ecosystem (IBC) adoption grew.
+- 2023–2024: Development focus on cross-chain DeFi.
+- 2025: Trading around ~$9 with strong developer community.
+
+ID: 17
+17. Internet Computer (ICP)
+Name: Internet Computer
+Invented by: Dominic Williams, Dfinity Foundation; launched in May 2021
+Highest Price: ~$750 (May 2021 launch)
+Lowest Price: ~$2.87 (Dec 2022)
+History:
+- 2016: Dfinity project founded.
+- 2018–2020: Testnets released.
+- 2021: ICP launched with huge hype, peaked near $750.
+- 2022: Severe crash, ICP lost >95% value.
+- 2023: Rebranded focus on decentralized web apps.
+- 2024–2025: Stabilized ~$12, ecosystem slowly expanding.
+
+ID: 18
+18. Aptos (APT)
+Name: Aptos
+Invented by: Mo Shaikh & Avery Ching (ex-Meta engineers); launched Oct 2022
+Highest Price: ~$19.92 (Jan 2023)
+Lowest Price: ~$3.08 (Dec 2022)
+History:
+- 2021: Founded by ex-Meta’s Diem blockchain team.
+- 2022: Aptos mainnet launched (“Solana killer” narrative).
+- 2023: ATH ~$19.92 driven by strong hype.
+- 2024: Struggled in bear market, price retraced.
+- 2025: Trading around ~$6–7, focus on DeFi and gaming.
+
+ID: 19
+19. Maker (MKR)
+Name: Maker
+Invented by: Rune Christensen, MakerDAO; launched in 2017
+Highest Price: ~$6,339 (May 2021)
+Lowest Price: ~$21 (Jan 2017)
+History:
+- 2015: MakerDAO project initiated.
+- 2017: Launch of MKR and DAI stablecoin.
+- 2020: Gained traction during DeFi summer.
+- 2021: ATH ~$6,339 amid DeFi boom.
+- 2022: Bear market saw retracement.
+- 2024: Continued to play key role in decentralized stablecoin ecosystem.
+- 2025: Trading around ~$2,500.
+
+ID: 20
+20. NEAR Protocol (NEAR)
+Name: NEAR
+Invented by: NEAR Collective; launched 2020
+Highest Price: ~$20.44 (Jan 2022)
+Lowest Price: ~$0.52 (Nov 2020)
+History:
+- 2018: NEAR founded.
+- 2020: NEAR mainnet launched.
+- 2021: Ecosystem grew with DeFi/NFT adoption.
+- Jan 2022: ATH ~$20.44.
+- 2022–2023: Bear market decline.
+- 2024–2025: AI-native blockchain narrative boosted adoption, trading ~$2.6.
+
+ID: 21
+21. Quant (QNT)
+Name: Quant
+Invented by: Gilbert Verdian; launched in 2018
+Highest Price: ~$428 (Sep 2021)
+Lowest Price: ~$0.16 (Aug 2018)
+History:
+- 2018: Quant launched to solve blockchain interoperability.
+- 2019: Overledger operating system introduced.
+- 2021: ATH ~$428 during bull run.
+- 2022: Bear market retracement.
+- 2024–2025: Strong institutional adoption, price around ~$95.
+
+ID: 22
+22. Algorand (ALGO)
+Name: Algorand
+Invented by: Silvio Micali; launched in 2019
+Highest Price: ~$3.28 (Jun 2019)
+Lowest Price: ~$0.10 (Mar 2020)
+History:
+- 2017: Algorand founded by Silvio Micali.
+- 2019: Mainnet launch, ALGO token released.
+- 2020–2021: Growth in DeFi/NFT ecosystem.
+- 2021: ATH ~$3.28.
+- 2022–2025: Struggled with adoption, trading ~$0.15.
+
+ID: 23
+23. Tezos (XTZ)
+Name: Tezos
+Invented by: Arthur & Kathleen Breitman; launched 2018
+Highest Price: ~$9.12 (Oct 2021)
+Lowest Price: ~$0.31 (Dec 2018)
+History:
+- 2014: Tezos concept introduced.
+- 2017: ICO raised $232M.
+- 2018: Mainnet launched.
+- 2021: ATH ~$9.12.
+- 2022–2025: Adoption slowed, trading ~$0.65.
+
+ID: 24
+24. Filecoin (FIL)
+Name: Filecoin
+Invented by: Protocol Labs (Juan Benet); launched 2020
+Highest Price: ~$236 (Apr 2021)
+Lowest Price: ~$1.50 (Dec 2022)
+History:
+- 2017: Filecoin ICO raised $200M+.
+- 2020: Mainnet launched.
+- 2021: ATH ~$236 during bull run.
+- 2022–2025: Adopted for decentralized storage, price ~$5.
+
+ID: 25
+25. Hedera (HBAR)
+Name: Hedera Hashgraph
+Invented by: Dr. Leemon Baird; launched 2019
+Highest Price: ~$0.57 (Sep 2021)
+Lowest Price: ~$0.0099 (Jan 2020)
+History:
+- 2017: Hedera founded.
+- 2019: Mainnet launched.
+- 2021: ATH ~$0.57 with strong enterprise partnerships.
+- 2022–2025: Continued growth, price ~$0.08.
+
+ID: 27
+26. Aave (AAVE)
+Name: Aave
+Invented by: Stani Kulechov; launched 2020 (rebranded from ETHLend)
+Highest Price: ~$666 (May 2021)
+Lowest Price: ~$26 (Nov 2020)
+History:
+- 2017: ETHLend founded.
+- 2020: Rebranded as Aave, became DeFi lending leader.
+- 2021: ATH ~$666.
+- 2022–2025: Still a top DeFi protocol, price ~$90.
+
+ID: 28
+27. The Graph (GRT)
+Name: The Graph
+Invented by: Yaniv Tal, Brandon Ramirez, Jannis Pohlmann; launched 2020
+Highest Price: ~$2.84 (Feb 2021)
+Lowest Price: ~$0.05 (Dec 2022)
+History:
+- 2018: Project founded.
+- 2020: Mainnet launch.
+- 2021: ATH ~$2.84 during DeFi boom.
+- 2022–2025: Still used for indexing, price ~$0.20.
+
+ID: 29
+28. Fantom (FTM)
+Name: Fantom
+Invented by: Dr. Ahn Byung Ik; launched 2018
+Highest Price: ~$3.48 (Oct 2021)
+Lowest Price: ~$0.002 (Mar 2020)
+History:
+- 2018: Fantom founded.
+- 2019: Opera mainnet launched.
+- 2021: ATH ~$3.48 during DeFi boom.
+- 2022–2025: Development continues, price ~$0.40.
+
+ID: 30
+29. Decentraland (MANA)
+Name: Decentraland
+Invented by: Ari Meilich, Esteban Ordano; launched 2017
+Highest Price: ~$5.90 (Nov 2021)
+Lowest Price: ~$0.0079 (Oct 2017)
+History:
+- 2015: Concept created.
+- 2017: ICO conducted.
+- 2020: Virtual land sales gain traction.
+- 2021: ATH ~$5.90 with metaverse hype.
+- 2022–2025: Metaverse interest cooled, price ~$0.35.
+
+ID: 31
+30. The Sandbox (SAND)
+Name: The Sandbox
+Invented by: Pixowl (Arthur Madrid, Sebastien Borget); launched 2012 (blockchain version in 2019)
+Highest Price: ~$8.44 (Nov 2021)
+Lowest Price: ~$0.028 (Nov 2020)
+History:
+- 2012: Sandbox game created.
+- 2019: Blockchain version launched.
+- 2021: ATH ~$8.44 with NFT/metaverse boom.
+- 2022–2025: Adoption slowed, price ~$0.30.
+
+ID: 32
+31. Theta Network (THETA)
+Name: Theta
+Invented by: Mitch Liu, Jieyi Long; launched 2019
+Highest Price: ~$15.72 (Apr 2021)
+Lowest Price: ~$0.04 (Jan 2019)
+History:
+- 2017: Theta founded.
+- 2019: Mainnet launched.
+- 2021: ATH ~$15.72 during bull market.
+- 2022–2025: Focus on decentralized video streaming, price ~$0.70.
+
+ID: 33
+32. Kava (KAVA)
+Name: Kava
+Invented by: Kava Labs; launched 2019
+Highest Price: ~$9.12 (Sep 2021)
+Lowest Price: ~$0.30 (Mar 2020)
+History:
+- 2019: Kava mainnet launched.
+- 2020–2021: Grew as a DeFi lending platform.
+- 2021: ATH ~$9.12.
+- 2022–2025: Development continues, price ~$0.60.
+
+ID: 34
+33. Zilliqa (ZIL)
+Name: Zilliqa
+Invented by: Amrit Kumar, Xinshu Dong; launched 2019
+Highest Price: ~$0.25 (May 2021)
+Lowest Price: ~$0.002 (Mar 2020)
+History:
+- 2017: Project founded.
+- 2019: Mainnet launched with sharding tech.
+- 2021: ATH ~$0.25.
+- 2022–2025: Price ~$0.02.
+
+ID: 35
+34. IOTA (MIOTA)
+Name: IOTA
+Invented by: David Sønstebø, Dominik Schiener, etc.; launched 2016
+Highest Price: ~$5.69 (Dec 2017)
+Lowest Price: ~$0.079 (Dec 2018)
+History:
+- 2015: IOTA project began.
+- 2016: Token launched.
+- 2017: ATH ~$5.69.
+- 2018–2025: Focus on IoT, trading ~$0.20.
+
+ID: 36
+35. Enjin Coin (ENJ)
+Name: Enjin Coin
+Invented by: Enjin company (Maxim Blagov, Witek Radomski); launched 2017
+Highest Price: ~$4.82 (Nov 2021)
+Lowest Price: ~$0.017 (Nov 2017)
+History:
+- 2009: Enjin founded as gaming platform.
+- 2017: ENJ token launched.
+- 2021: ATH ~$4.82 with NFT boom.
+- 2022–2025: NFT/gaming focus, price ~$0.20.
+
+ID: 37
+36. Chiliz (CHZ)
+Name: Chiliz
+Invented by: Alexandre Dreyfus; launched 2018
+Highest Price: ~$0.89 (Mar 2021)
+Lowest Price: ~$0.004 (Sep 2019)
+History:
+- 2018: Chiliz founded, Socios.com fan tokens platform launched.
+- 2021: ATH ~$0.89.
+- 2022–2025: Trading ~$0.07.
+
+ID: 38
+37. Basic Attention Token (BAT)
+Name: BAT
+Invented by: Brendan Eich (creator of JavaScript); launched 2017
+Highest Price: ~$1.92 (Nov 2021)
+Lowest Price: ~$0.066 (Jul 2017)
+History:
+- 2017: BAT launched with Brave browser ecosystem.
+- 2021: ATH ~$1.92.
+- 2022–2025: Price ~$0.18.
+
+ID: 39
+38. Curve DAO Token (CRV)
+Name: CRV
+Invented by: Michael Egorov; launched 2020
+Highest Price: ~$60.50 (Aug 2020, initial volatility)
+Lowest Price: ~$0.33 (Oct 2020)
+History:
+- 2020: Curve launched as stablecoin-focused DEX.
+- 2021: CRV governance gained traction.
+- 2022–2025: Still key in DeFi, price ~$0.45.
+
+ID: 40
+39. Gala (GALA)
+Name: Gala
+Invented by: Eric Schiermeyer (Zynga co-founder); launched 2019
+Highest Price: ~$0.82 (Nov 2021)
+Lowest Price: ~$0.0002 (Sep 2020)
+History:
+- 2019: Gala Games founded.
+- 2021: ATH ~$0.82 with play-to-earn boom.
+- 2022–2025: Gaming adoption slowed, price ~$0.02.
