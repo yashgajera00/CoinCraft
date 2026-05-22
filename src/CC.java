@@ -8,9 +8,12 @@ import java.util.regex.Pattern;
 
 public class CC {
     public static void main(String[] args) throws Exception {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter database password: ");
+        String pass = sc.nextLine();
+        
         String URL = "jdbc:mysql://localhost:3306/coincraft";
         String user = "root";
-        String pass = "Yash@1234";
         Scanner sc = new Scanner(System.in);
         Connection con = null;
         String drivername = "com.mysql.cj.jdbc.Driver";

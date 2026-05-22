@@ -18,9 +18,11 @@ public class SendEmail {
         public static void sendEmail() {
             Scanner sc = new Scanner(System.in);
 
-            String fromUser ="gajerayash999@gmail.com";
+            System.out.print("Enter your Gmail address: ");
+            String fromUser = sc.nextLine();
 
-            String fromUserPassword ="bxsh tnfc dawg jotg";
+            System.out.print("Enter your Gmail app password: ");
+            String fromUserPassword = sc.nextLine();
 
             System.out.print("Enter receiver email: ");
             String toEmail = sc.nextLine();
